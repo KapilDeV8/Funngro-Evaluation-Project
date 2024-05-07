@@ -16,7 +16,7 @@ const Body = () => {
         <p className=' my-5'>You can not only generate income but also get your first passion job</p>
       </div>
       <div className="image">
-        <img className='' src="/Icons/download.png" alt="Sharks" />
+        <img className='' src="download.png" alt="Sharks" />
       </div>
     </div>
     <Features />
