@@ -8,7 +8,7 @@ const About = () => {
     <>
       <Navbar2 />
       <div className='bg flex flex-col justify-center items-center sm:w-screen'>
-        <h1 className=' text-xl sm:text-3xl text font-bold text-center mt-10 '>About <img src="/Icons/Logo.png" width='75px' className='inline' alt="Funngro" /> Funngro</h1>
+        <h1 className=' text-xl sm:text-3xl text font-bold text-center mt-10 '>About <img src="./Icons/Logo.png" width='75px' className='inline' alt="Funngro" /> Funngro</h1>
 
         <div className=' text my-10 mx-5 '>
           <h2 className='underline my-10 text-center text-2xl font-semibold '>Origin of Funngro</h2>
